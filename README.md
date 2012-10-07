@@ -1,10 +1,5 @@
-datavaalit
+Datavaalit data
 ====================
-
-Sateenvarjorepository Datavaalit -projektin dataseteille, jotka on hostattuna erillisissä repositoryissa, jotta yhden repositoryn koko ei kasva hallitsemattomaksi.
-
-
-__[Data Hub Suomi -katalogiin](http://fi.thedatahub.org/fi/group/datavaalit)__ tallennetaan alkuperäisten, muokattujen ja hankittujen aineistojen sekä Datavaalit rajapinnan metatiedot.
 
 Alkuperäinen data
 -----------------------------
@@ -29,3 +24,9 @@ Muokatut ja hankitut aineistot pyritään julkaisemaan myös Datavaalit RES -raj
 Rajapinnan teknisen dokumentaation yhteydessä dokumentoidaan myös tarjottavan datan alkuperä viittaamalla datahubissa oleviin metatietoihin ja GitHubissa julkaistuihin siivottuihin datasetteihin.
 - Rajapinnan dokumentaatio __[Datavaalit.fi rajapinta -sivulle](http://www.datavaalit.fi/resources/api/)__
 - Rajapinnan metatiedot __[Data Hub Suomi -katalogiin](http://fi.thedatahub.org/fi/group/datavaalit)__
+
+
+Datavaalit data repository
+==========================
+
+Sateenvarjorepository Datavaalit -projektin dataseteille, jotka on hostattuna erillisissä repositoryissa, jotta yhden repositoryn koko ei kasva hallitsemattomaksi.
