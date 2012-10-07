@@ -1,3 +1,6 @@
 [submodule "ehdokas-ja-tulostiedot"]
 	path = ehdokas-ja-tulostiedot
 	url = git://github.com/avoindata/datavaalit-ehdokas-ja-tulostiedot.git
+[submodule "kuntatalous"]
+	path = kuntatalous
+	url = git://github.com/avoindata/datavaalit-kuntatalous.git
