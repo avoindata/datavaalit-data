@@ -4,3 +4,6 @@
 [submodule "kuntatalous"]
 	path = kuntatalous
 	url = git://github.com/avoindata/datavaalit-kuntatalous.git
+[submodule "vaalikoneet"]
+	path = vaalikoneet
+	url = git://github.com/avoindata/datavaalit-vaalikoneet.git
