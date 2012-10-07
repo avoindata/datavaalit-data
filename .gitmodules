@@ -7,3 +7,6 @@
 [submodule "vaalikoneet"]
 	path = vaalikoneet
 	url = git://github.com/avoindata/datavaalit-vaalikoneet.git
+[submodule "luottamushenkilot"]
+	path = luottamushenkilot
+	url = git://github.com/avoindata/datavaalit-luottamushenkilot.git
