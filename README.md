@@ -1,4 +1,4 @@
-kunnallisvaalit-2012
+datavaalit
 ====================
 
-Kunnallisvaalien 2012 data
+Vaalidataa datavaalit -projektista
