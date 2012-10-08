@@ -10,3 +10,6 @@
 [submodule "luottamushenkilot"]
 	path = luottamushenkilot
 	url = git://github.com/avoindata/datavaalit-luottamushenkilot.git
+[submodule "kuntatietoja"]
+	path = kuntatietoja
+	url = git://github.com/avoindata/datavaalit-kuntatietoja.git
