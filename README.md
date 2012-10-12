@@ -20,7 +20,7 @@ Osaa vaaleihin liittyvästä julkisesta datasta ei ole saatavilla koneluettavass
 
 Rajapinta
 ---------
-Muokatut ja hankitut aineistot pyritään julkaisemaan myös Datavaalit RES -rajapinnan kautta, jolloin niiden käyttö ohjelmallisesti on varsin helppoa.
+Muokatut ja hankitut aineistot pyritään julkaisemaan myös Datavaalit REST -rajapinnan kautta, jolloin niiden käyttö ohjelmallisesti on varsin helppoa.
 Rajapinnan teknisen dokumentaation yhteydessä dokumentoidaan myös tarjottavan datan alkuperä viittaamalla datahubissa oleviin metatietoihin ja GitHubissa julkaistuihin siivottuihin datasetteihin.
 - Rajapinnan dokumentaatio __[Datavaalit.fi rajapinta -sivulle](http://www.datavaalit.fi/resources/api/)__
 - Rajapinnan metatiedot __[Data Hub Suomi -katalogiin](http://fi.thedatahub.org/fi/group/datavaalit)__
